@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/c4cmusic/static/css/main.0cc0a6ee.chunk.css",
-    "main.js": "/c4cmusic/static/js/main.58a17e51.chunk.js",
-    "main.js.map": "/c4cmusic/static/js/main.58a17e51.chunk.js.map",
+    "main.css": "/c4cmusic/static/css/main.4df54577.chunk.css",
+    "main.js": "/c4cmusic/static/js/main.e6743b39.chunk.js",
+    "main.js.map": "/c4cmusic/static/js/main.e6743b39.chunk.js.map",
     "runtime-main.js": "/c4cmusic/static/js/runtime-main.5d88c85e.js",
     "runtime-main.js.map": "/c4cmusic/static/js/runtime-main.5d88c85e.js.map",
     "static/js/2.26b6b144.chunk.js": "/c4cmusic/static/js/2.26b6b144.chunk.js",
@@ -10,14 +10,15 @@
     "static/js/3.6a24d7d9.chunk.js": "/c4cmusic/static/js/3.6a24d7d9.chunk.js",
     "static/js/3.6a24d7d9.chunk.js.map": "/c4cmusic/static/js/3.6a24d7d9.chunk.js.map",
     "index.html": "/c4cmusic/index.html",
-    "static/css/main.0cc0a6ee.chunk.css.map": "/c4cmusic/static/css/main.0cc0a6ee.chunk.css.map",
+    "static/css/main.4df54577.chunk.css.map": "/c4cmusic/static/css/main.4df54577.chunk.css.map",
     "static/js/2.26b6b144.chunk.js.LICENSE.txt": "/c4cmusic/static/js/2.26b6b144.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/c4cmusic/static/media/logo.6ce24c58.svg"
+    "static/media/field.6a5e97bd.jpg": "/c4cmusic/static/media/field.6a5e97bd.jpg",
+    "static/media/head.46c5c193.jpg": "/c4cmusic/static/media/head.46c5c193.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5d88c85e.js",
     "static/js/2.26b6b144.chunk.js",
-    "static/css/main.0cc0a6ee.chunk.css",
-    "static/js/main.58a17e51.chunk.js"
+    "static/css/main.4df54577.chunk.css",
+    "static/js/main.e6743b39.chunk.js"
   ]
 }
